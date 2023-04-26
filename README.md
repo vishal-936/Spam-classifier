@@ -1,4 +1,4 @@
-"Spam-classifier" <br>
+"Spam-classifier". <br>
 It is text based spam-classifier.<br>
 Dataset is taken from kaggle "email spam".<br>
 There are two models for classification. User can compare the results. <br>
